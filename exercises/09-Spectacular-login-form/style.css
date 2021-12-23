@@ -14,6 +14,7 @@ h1 {
 	background: blue;
 	color: white;
 	font-style: normal;
+	font-family: Arial, sans-serif;
 }
 
 .login-text {
@@ -31,4 +32,5 @@ input {
 	background: rgb(72, 116, 215);
 	width: 409px;
 	height: 40px;
+	color: white;
 }
